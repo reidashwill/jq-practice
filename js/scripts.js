@@ -12,3 +12,4 @@ jQuery(document).ready(function(){
     alert("This is an image.");
   });
 })
+
